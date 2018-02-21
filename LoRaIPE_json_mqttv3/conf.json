@@ -1,0 +1,17 @@
+{
+    "cse": {
+        "cbhost": "203.253.128.161",
+        "cbport": "7579",
+        "cbname": "Mobius",
+        "cbcseid": "/Mobius",
+        "mqttport": "1883"
+    },
+    "ae": {
+        "aeid": "S",
+        "appid": "0.2.481.1.1",
+        "appname": "lora_ipe",
+        "bodytype": "xml",
+        "webport": "7591"
+    }
+    
+}
